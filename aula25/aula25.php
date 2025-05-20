@@ -1,0 +1,1 @@
+//criando um Banco de dados no PHPadmin
